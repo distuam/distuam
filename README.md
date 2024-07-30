@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ### 数据库
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
@@ -32,13 +33,20 @@ Here are some ideas to get you started:
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-D92D2A?logo=redis&logoColor=white)
 
-### 前端框架
+### 前端技术
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ### 后端框架
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-F48023?logo=codeigniter&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
 ### 桌面应用
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
@@ -55,3 +63,15 @@ Here are some ideas to get you started:
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 ![Proxmox VE](https://img.shields.io/badge/-Proxmox%20VE-009639?logo=proxmox&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azure&logoColor=white)
+
+### 其他
+![iKuai](https://img.shields.io/badge/-iKuai-0072C6?logo=internet-explorer&logoColor=white)
+![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white)
+![OpenGL](https://img.shields.io/badge/-OpenGL-FFFFFF?logo=opengl&logoColor=black)
+![Ray Tracing](https://img.shields.io/badge/-Ray%20Tracing-000000?logo=ray-tracing&logoColor=white)
+![Big Data](https://img.shields.io/badge/-Big%20Data-0099FF?logo=data-science&logoColor=white)
+![FHIR](https://img.shields.io/badge/-FHIR-0052CC?logo=fhir&logoColor=white)
+![Mining](https://img.shields.io/badge/-Mining-F0C300?logo=bitcoin&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF5722?logo=tensorflow&logoColor=white)
+![Graphics Cards](https://img.shields.io/badge/-Graphics%20Cards-00CFFF?logo=amd&logoColor=white)
