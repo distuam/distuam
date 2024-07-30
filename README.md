@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an application specialist. I do not develop underlying architecture; I am accustomed to using existing architectures to build products.
+I am an application specialist. I do not develop underlying architecture; I am accustomed to using existing architectures to build products. I write code for 8-10 hours a day. 💻
 
 - **Boss**: 🚀
 - **Entrepreneur**: 💼
