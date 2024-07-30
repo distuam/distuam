@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am an application specialist. I do not develop underlying architecture; I am accustomed to using existing architectures to build products.
+
 - **Boss**: 🚀
 - **Entrepreneur**: 💼
 - **Full-Stack Engineer**: 💻
