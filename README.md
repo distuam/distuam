@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am an application specialist. I do not develop underlying architecture; I am accustomed to using existing architectures to build products. I write code for 8-10 hours a day. 💻
+I am an application specialist with 8 years of programming experience, accumulating approximately 15,000 hours of coding time. I focus on leveraging existing architectures to build robust and scalable products. On a typical day, I spend 8-10 hours writing code to turn ideas into reality. 💻
+
 
 - **Boss**: 🚀
 - **Entrepreneur**: 💼
