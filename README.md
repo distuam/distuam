@@ -8,6 +8,7 @@ I am an application specialist with 8 years of programming experience, accumulat
 - **Full-Stack Engineer**: 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=distuam)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=distuam)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🚀 技术栈 / Tech Stack
 
 ### 编程语言 / Programming Languages
