@@ -57,6 +57,9 @@ I am an application specialist with 8 years of programming experience, accumulat
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 ![Proxmox VE](https://img.shields.io/badge/-Proxmox%20VE-009639?logo=proxmox&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ### 其他 / Others
 ![iKuai](https://img.shields.io/badge/-iKuai-0072C6?logo=internet-explorer&logoColor=white)
@@ -68,4 +71,4 @@ I am an application specialist with 8 years of programming experience, accumulat
 ![Mining](https://img.shields.io/badge/-Mining-F0C300?logo=bitcoin&logoColor=black)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF5722?logo=tensorflow&logoColor=white)
 ![Graphics Cards](https://img.shields.io/badge/-Graphics%20Cards-00CFFF?logo=amd&logoColor=white)
-
+![群晖](https://img.shields.io/badge/-群晖-0072C6?logo=internet-explorer&logoColor=white)
