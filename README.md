@@ -8,12 +8,14 @@ I am an application specialist with 8 years of programming experience, accumulat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=distuam)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=distuam)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🚀 技术栈 / Tech Stack
 ### 编程语言 / Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ### 数据库 / Databases
