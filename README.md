@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an application specialist with 8 years of programming experience, accumulating approximately 15,000 hours of coding time. I focus on leveraging existing architectures to build robust and scalable products. On a typical day, I spend 8-10 hours writing code to turn ideas into reality. 💻
+I am an application specialist with programming experience dating back to 2017. I focus on leveraging existing architectures to build robust and scalable products, turning ideas into reality through code. 💻
 
 
 - **Entrepreneur**: 💼
