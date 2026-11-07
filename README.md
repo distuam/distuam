@@ -13,9 +13,6 @@ I am an application specialist with programming experience dating back to 2017. 
 ### 💻 编程语言分布
 [![Top Langs](https://github-stats-extended-black-two.vercel.app/api/top-langs?username=distuam&langs_count=4&disable_animations=true&theme=light_github)](https://github.com/distuam/github-readme-stats)
 
-### 5️⃣ WakaTime 编程时长统计
-[![WakaTime Stats](https://github-stats-extended-black-two.vercel.app/api/wakatime?username=distuam&layout=compact)](https://wakatime.com/@distuam)
-
 
 ## 🚀 技术栈 / Tech Stack
 ### 编程语言 / Programming Languages
