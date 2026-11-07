@@ -7,6 +7,7 @@ I am an application specialist with programming experience dating back to 2017. 
 - **Full-Stack Engineer**: 💻
 
 [![Top Langs](https://github-stats-extended.vercel.app/api?username=distuam)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=distuam&layout=donut&langs_count=5&disable_animations=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&disable_animations=true&theme=gruvbox_light)
 
 
 ## 🚀 技术栈 / Tech Stack
