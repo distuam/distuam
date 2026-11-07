@@ -8,10 +8,8 @@ I am an application specialist with programming experience dating back to 2017. 
 
 [![GitHub Stats](https://github-stats-extended-black-two.vercel.app/api?username=distuam&include_all_commits=true&show_icons=true)](https://github.com/distuam/github-readme-stats)
 
-
-[![Top Langs](https://github-stats-extended-black-two.vercel.app/api/top-langs?username=distuam)](https://github.com/distuam/github-readme-stats)
-
 [![Top Langs](https://github-stats-extended-black-two.vercel.app/api/top-langs?username=distuam&langs_count=4&disable_animations=true&theme=light_github)](https://github-stats-extended-black-two.vercel.app/api/top-langs?username=distuam&langs_count=4&disable_animations=true&theme=light_github)
+
 
 ## 🚀 技术栈 / Tech Stack
 ### 编程语言 / Programming Languages
