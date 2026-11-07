@@ -7,23 +7,14 @@ I am an application specialist with programming experience dating back to 2017. 
 - **Full-Stack Engineer**: 💻
 
 ### 📊 GitHub 综合数据统计
-*(包含全部历史年份与私有仓库贡献)*
-
 [![GitHub Stats](https://github-stats-extended-black-two.vercel.app/api?username=distuam&include_all_commits=true&show_icons=true)](https://github.com/distuam/github-readme-stats)
 
----
-
-### 📅 本年度提交统计
-*(如果你想专门展示某一个特定年份的 Commit 记录，例如 2025 或 2026 年，可以使用此卡片)*
-
-[![GitHub Stats 2025](https://github-stats-extended-black-two.vercel.app/api?username=distuam&commits_year=2025&show_icons=true)](https://github.com/distuam/github-readme-stats)
-
----
 
 ### 💻 编程语言分布
-*(支持私有仓库语言统计、限制 4 种主要语言、浅色主题且禁用动画)*
-
 [![Top Langs](https://github-stats-extended-black-two.vercel.app/api/top-langs?username=distuam&langs_count=4&disable_animations=true&theme=light_github)](https://github.com/distuam/github-readme-stats)
+
+### 5️⃣ WakaTime 编程时长统计
+[![WakaTime Stats](https://github-stats-extended-black-two.vercel.app/api/wakatime?username=distuam&layout=compact)](https://wakatime.com/@distuam)
 
 
 ## 🚀 技术栈 / Tech Stack
