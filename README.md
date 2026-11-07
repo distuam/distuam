@@ -6,8 +6,8 @@ I am an application specialist with programming experience dating back to 2017. 
 - **Entrepreneur**: 💼
 - **Full-Stack Engineer**: 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=distuam)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=distuam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-stats-extended.vercel.app/api?username=distuam)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-stats-extended.vercel.app/api?username=distuam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🚀 技术栈 / Tech Stack
