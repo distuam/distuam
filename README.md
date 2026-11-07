@@ -6,6 +6,8 @@ I am an application specialist with programming experience dating back to 2017. 
 - **Entrepreneur**: 💼
 - **Full-Stack Engineer**: 💻
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=distuam&include_all_commits=true)](https://github.com/distuam/github-readme-stats)
+
 [![Top Langs](https://github-stats-extended.vercel.app/api?username=distuam)](https://github.com/distuam/github-readme-stats)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=distuam&langs_count=4&disable_animations=true&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=distuam&langs_count=4&disable_animations=true&theme=light_github)
